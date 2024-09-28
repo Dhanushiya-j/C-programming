@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include<string.h>
+
+void main()
+{
+    char num[]="30cd";
+    
+    
+   int n= atoi( num);
+ 
+    printf("%d",n);
+}
